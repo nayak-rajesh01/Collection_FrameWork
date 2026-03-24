@@ -7,7 +7,7 @@
 7. Convert list of strings to uppercase
 8. Convert list of strings to lowercase
 9. Filter elements greater than 50
-10. Find first element in list
+10. Find first element in list (imp)
 11. Check if list is empty using Optional
 12. Find max element
 13. Find min element
